@@ -98,7 +98,7 @@
     text-decoration: underline;
     color: blueviolet;
   }
-  @media (max-width: 576px) {
+  @media (max-width: 768px) {
     h4 {
       text-align: center;
       
